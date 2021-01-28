@@ -1,0 +1,6 @@
+fastapi
+gunicorn
+uvicorn
+starlette==0.13.6
+pydantic
+spacy
